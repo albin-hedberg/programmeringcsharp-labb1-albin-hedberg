@@ -1,3 +1,5 @@
+![Exempel-bild](https://github.com/albin-hedberg/programmeringcsharp-labb1-albin-hedberg/blob/main/Exempel-bild.png)
+
 # Labb 1 – Hitta tal i sträng med tecken
 
 Skapa en konsollapplikation som tar en textsträng (**string**) som argument till Main eller uppmanar användaren mata in en sträng i konsollen. </br>
